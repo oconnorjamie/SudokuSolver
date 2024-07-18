@@ -4,6 +4,11 @@ This project implements a simulated annealing optimization algorithm to solve ev
 
 <img src="https://github.com/user-attachments/assets/60c6bc25-4464-441c-a825-528dec4a123f" alt="Sudoku Solver" width="680">
 
+
+The SudokuSolverG.ipynb will give a visual representation of the board using colors to show the progress of cost over iterations, finishing with a color green to show a finished board:
+
+<img src="https://github.com/user-attachments/assets/505757a2-44e9-49fa-8c90-823597ff7a76" alt="Sudoku Solver" width="680">
+
 ## Features
 
 The algorithm includes several optimizations and modifications:

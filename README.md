@@ -270,5 +270,4 @@ Best Cost: 0
 ```
 
 
-Thank you for Reading. 18-07-2024
-MIT License ~ Jamie O Connor
+Jamie O'Connor

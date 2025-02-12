@@ -1,6 +1,6 @@
 # SudokuSolver
 
-This project implements a simulated annealing optimization algorithm to solve even the hardest Sudoku boards.
+This project implements a simulated annealing optimization algorithm to the hardest sodoku boards efficiently.
 
 <img src="https://github.com/user-attachments/assets/60c6bc25-4464-441c-a825-528dec4a123f" alt="Sudoku Solver" width="680">
 
